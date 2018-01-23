@@ -1,4 +1,4 @@
-# Java_SampleCode19
+# JavaSampleCode19
 二次元配列で地図表示
 
 #### 処理
